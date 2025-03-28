@@ -1,8 +1,9 @@
+---
 permalink: /
 title: "Zhiyuan Wang"
 excerpt: "Master's Candidate in Computer Science at UESTC"
 author_profile: true
-redirect_from:
+redirect_from: 
   - /about/
   - /about.html
 ---
