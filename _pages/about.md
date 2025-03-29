@@ -35,7 +35,7 @@ I have authored several papers on risk control and uncertainty estimation in AI,
 
 - [Word-Sequence Entropy: Towards Uncertainty Estimation in Free-Form Medical Question Answering Applications.](https://www.sciencedirect.com/science/article/abs/pii/S0952197624017111), **Zhiyuan Wang**, Jinhao Duan, Chenxi Yuan, Qingyu Chen, Tianlong Chen, Yue Zhang, Ren Wang, Xiaoshuang Shi*, Kaidi Xu. *Engineering Applications of Artificial Intelligence (EAAI)*, JCR Q1, 2025.
 - [ConU: Conformal Uncertainty in Large Language Models with Correctness Coverage Guarantees.](https://aclanthology.org/2024.findings-emnlp.404/), **Zhiyuan Wang**, Jinhao Duan, Lu Cheng, Yue Zhang, Qingni Wang, Xiaoshuang Shi*, Kaidi Xu, Hengtao Shen, Xiaofeng Zhu. *Conference on Empirical Methods in Natural Language Processing (EMNLP)*, Findings, 2024.
-- [Sample then Identify: A General Framework for Risk Control and Assessment in Multimodal Large Language Models.](https://openreview.net/forum?id=9WYMDgxDac&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions), Qingni Wang, Tiantian Geng, **Zhiyuan Wang**, Teng Wang, Bo Fu*, Feng Zheng*. *International Conference on Learning Representations (ICLR)*, **Spotlights**, 2025.
+- [Sample then Identify: A General Framework for Risk Control and Assessment in Multimodal Large Language Models.](https://openreview.net/forum?id=9WYMDgxDac&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2025%2FConference%2FAuthors%23your-submissions)), Qingni Wang, Tiantian Geng, **Zhiyuan Wang**, Teng Wang, Bo Fu*, Feng Zheng*. *International Conference on Learning Representations (ICLR)*, **Spotlights**, 2025.
 - [Caterpillar: A Pure-MLP Architecture with Shifted-Pillars-Concatenation.](https://dl.acm.org/doi/10.1145/3664647.3680809),Jin Sun, Xiaoshuang Shi*, **Zhiyuan Wang**, Kaidi Xu, Heng Tao Shen, Xiaofeng Zhu. ACM International Conference on Multimedia (MM), Poster, 2024.
 
 # 🎖 Honors and Awards
@@ -54,6 +54,7 @@ I have authored several papers on risk control and uncertainty estimation in AI,
 - Workshop on Large Language Models and Generative AI for Health at AAAI (GenAI4Health@AAAI)
 - Survey Track for International Joint Conference on Artificial Intelligence (IJCAL)
 - Annual Meeting of the Association for Computational Linguistics (ACL)
+
 **Journal Reviewer:**
 - Neural Networks (NN)
 
