@@ -52,7 +52,7 @@ My research interests include Uncertainty Quantification and Conformal Predictio
 - *Sep 2023 - (now)*, University of Electronic Science and Technology of China (UESTC), Master of Computer Science and Technology.
 - *Sep 2019 - Jun 2023*, Chongqing University of Posts and Telecommunications (CQUPT), Bachelor of Internet of Things Engineering (Hons).
 
-# 💬 Academic Services
+# ⏳ Academic Services
 **Program Committee Member of Conferences:**
 - International Conference on Learning Representations (ICLR), 2025
 - Workshop on Large Language Models and Generative AI for Health at AAAI (GenAI4Health@AAAI), 2025
@@ -61,4 +61,10 @@ My research interests include Uncertainty Quantification and Conformal Predictio
 
 **Journal Reviewer:**
 - Neural Networks (NN)
+
+# 🙋 More about me
+- I have a very cute baby named bingbing (饼饼)!!! 🐱
+<div style="text-align: center;">
+  <img src="../assets/xiaobao.jpg" alt="Bingbing(饼饼)" style="width: 50%;">
+</div>
 
