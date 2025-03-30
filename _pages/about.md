@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Hi, I'm Zhiyuan Wang. I am currently a second-year Master's student in Computer Science and Technology at the University of Electronic Science and Technology of China (UESTC), co-advised by Prof. [Xiaoshuang Shi](https://scholar.google.com/citations?user=BWGQt3YAAAAJ&hl=en) and Prof. [Kaidi Xu](https://scholar.google.com/citations?user=lYK0wlsAAAAJ&hl=en). Previously, I received my bachelor's degree (Hons.) in Internet of Things Engineering from Chongqing University of Posts and Telecommunications (CQUPT) in 2023. 
-My research interests include Uncertainty Quantification and Conformal Prediction in Large (Vision-)Language Models. Check my CV for more details. 
+My research interests include Uncertainty Quantification and Conformal Prediction in Large (Vision-)Language Models. Check my [CV](../assets/CV.pdf) for more details. 
 
 
 # 📚 Research
