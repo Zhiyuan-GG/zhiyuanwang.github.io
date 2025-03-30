@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "wangzhiyuan"
-description              : "Master student UESTC"
+title                    : "Zhiyuan Wang"
+description              : "Master student"
 repository               : "https://zhiyuanwang.github.io/"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhiyuan Wang(汪志远)"
+  name             : "Zhiyuan Wang"
   avatar           : "assets/zyw.png"
   bio              : "UESTC"
   location         : "Chengdu, China"
