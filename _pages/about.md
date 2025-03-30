@@ -65,6 +65,6 @@ My research interests include Uncertainty Quantification and Conformal Predictio
 # 🙋 More about me
 - I have a very cute baby named bingbing (饼饼)!!! 🐱
 <div style="text-align: center;">
-  <img src="../assets/xiaobao.jpg" alt="Bingbing(饼饼)" style="width: 50%;">
+  <img src="../assets/xiaobao.jpg" alt="bingbing(饼饼)" style="width: 50%;">
 </div>
 
