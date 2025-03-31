@@ -26,7 +26,7 @@ My research interests include Uncertainty Quantification and Conformal Predictio
 - Statistically rigorous guarantees of task-specific metrics, such as correctness miscoverage rate and factuality, at various user-specified risk levels based on conformal uncertainty and significance test (conformal p-value).
 
 # 🔥 News
-- *2025.02*: &nbsp;🎉🎉 One paper was accepted by ICLR 2025 Spotlight.
+- *2025.02*: &nbsp;🎉🎉 One paper was accepted by ICLR 2025 Spotlights.
 - *2025.01*: &nbsp;🎉🎉 One paper was accepted by EAAI.
 - *2024.09*: &nbsp;🎉🎉 One paper was accepted by EMNLP 2024 Findings!
 - *2024.07*: &nbsp;🎉🎉 One paper was accepted by MM 2024!
