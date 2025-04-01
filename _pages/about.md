@@ -41,10 +41,9 @@ My research interests include Uncertainty Quantification and Conformal Predictio
 
 
 # 🎖 Honors and Awards
-- UESTC Academic Seedling Award (2025)
+- UESTC “Academic Youth” Graduate Student Honor Award (2025)
 - UESTC Outstanding Graduate Students (2024)
-- UESTC Scholarship for Outstanding Students (2024)
-- UESTC Academic Newcomer Award (2023)
+- UESTC Scholarship for Outstanding Students (2023, 2024)
 - CQUPT Honours Degrees (2023)
 - Provincial Merit Student (2022)
 - National Scholarship (2021, 2022)
