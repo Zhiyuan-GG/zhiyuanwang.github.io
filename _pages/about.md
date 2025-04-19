@@ -62,6 +62,7 @@ My research interests include Uncertainty Quantification and Conformal Predictio
 - Annual Meeting of the Association for Computational Linguistics (ACL), 2025
 - Conference on Empirical Methods in Natural Language Processing (EMNLP), 2025
 - Annual Conference on Neural Information Processing Systems (NeurIPS), 2025
+- ACM International Conference on Multimedia (MM), 2025
 
 **Journal Reviewer:**
 - Neural Networks (NN)
