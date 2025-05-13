@@ -21,22 +21,22 @@ Hi, I'm Zhiyuan Wang. I am currently a second-year Master's student in Computer 
 My research interests include Uncertainty Quantification and Conformal Prediction in Large (Vision-)Language Models. Check my [CV](../assets/CV.pdf) for more details. 
 
 
-# 📚 Research
+# 🤖 Research
 - Hallucination detection via uncertainty decomposition and quantification;
 - Statistically rigorous guarantees of task-specific metrics based on conformal prediction and significance test.
 
-# 🔥 News
+# 🍁 News
 - *2025.02*: &nbsp;🎉🎉 One paper was accepted by ICLR 2025 Spotlights.
 - *2025.01*: &nbsp;🎉🎉 One paper was accepted by EAAI.
 
-# 📝 Selected Publications
+# 📜 Selected Publications
 \* indicates equal contribution
 
 - [Word-Sequence Entropy: Towards Uncertainty Estimation in Free-Form Medical Question Answering Applications](https://www.sciencedirect.com/science/article/abs/pii/S0952197624017111). **Zhiyuan Wang**, Jinhao Duan, Chenxi Yuan, Qingyu Chen, Tianlong Chen, Yue Zhang, Ren Wang, Xiaoshuang Shi, Kaidi Xu. *Engineering Applications of Artificial Intelligence (EAAI)*, 2025.
 - [ConU: Conformal Uncertainty in Large Language Models with Correctness Coverage Guarantees](https://aclanthology.org/2024.findings-emnlp.404/). **Zhiyuan Wang**, Jinhao Duan, Lu Cheng, Yue Zhang, Qingni Wang, Xiaoshuang Shi, Kaidi Xu, Hengtao Shen, Xiaofeng Zhu. *Conference on Empirical Methods in Natural Language Processing (EMNLP)*, Findings, 2024.
 
 
-# 🎖 Honors and Awards
+# 🏆 Honors and Awards
 - UESTC “Academic Youth” Graduate Student Honor Award (2025)
 - UESTC Outstanding Graduate Students (2024)
 - UESTC Scholarship for Outstanding Students (2023, 2024)
@@ -46,11 +46,11 @@ My research interests include Uncertainty Quantification and Conformal Predictio
 - CQUPT First-class Scholarship (2020, 2021, 2022)
 - CQUPT Merit Student (2020, 2021, 2022)
 
-# 📖 Education
+# 🌸 Education
 - *Sep 2023 - (now)*, University of Electronic Science and Technology of China (UESTC), Master of Computer Science and Technology.
 - *Sep 2019 - Jun 2023*, Chongqing University of Posts and Telecommunications (CQUPT), Bachelor of Internet of Things Engineering (Hons).
 
-# ⏳ Academic Services
+# 🎆 Academic Services
 **Program Committee Member of Conferences:**
 - International Conference on Learning Representations (ICLR), 2025
 - Workshop on Large Language Models and Generative AI for Health at AAAI (GenAI4Health@AAAI), 2025
@@ -62,4 +62,3 @@ My research interests include Uncertainty Quantification and Conformal Predictio
 
 **Journal Reviewer:**
 - Neural Networks (NN)
-
