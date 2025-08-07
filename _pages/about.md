@@ -18,12 +18,12 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Hi, I'm Zhiyuan Wang. I am currently a second-year Master's student in Computer Science and Technology at the University of Electronic Science and Technology of China (UESTC), co-advised by Prof. [Xiaoshuang Shi](https://scholar.google.com/citations?user=BWGQt3YAAAAJ&hl=en) and Prof. [Kaidi Xu](https://scholar.google.com/citations?user=lYK0wlsAAAAJ&hl=en) (Drexel University). Previously, I received my bachelor's degree (Hons.) in Internet of Things Engineering from Chongqing University of Posts and Telecommunications (CQUPT) in 2023. 
-My research interests include Uncertainty Quantification and Conformal Prediction in Large (Vision-)Language Models. Check my [CV](../assets/CV.pdf) for more details. 
+My research interests include Uncertainty Quantification and Conformal Prediction in Foundation Models. Check my [CV](../assets/CV.pdf) for more details. 
 
 
 # 🤖 Research
-- Hallucination detection via uncertainty decomposition and quantification;
-- Statistically rigorous guarantees of task-specific metrics based on conformal prediction and significance test.
+- Hallucination detection via uncertainty decomposition and quantification; 
+- Statistical verification based on inductive conformal prediction and learn-then-test. 
 
 # 🍁 News
 - *2025.05*: &nbsp;🎉🎉 One paper was accepted by ACL 2025 Main.
@@ -33,13 +33,15 @@ My research interests include Uncertainty Quantification and Conformal Predictio
 # 📜 Selected Publications
 \* indicates equal contribution
 
+- [COIN: Uncertainty-Guarding Selective Question Answering for Foundation Models with Provable Risk Guarantees](https://arxiv.org/abs/2506.20178). **Zhiyuan Wang**, Jinhao Duan, Qingni Wang, Xiaofeng Zhu, Tianlong Chen, Xiaoshuang Shi, Kaidi Xu. *Preprint*, 2025. 
+- [SConU: Selective Conformal Uncertainty in Large Language Models](https://aclanthology.org/2025.acl-long.934/). **Zhiyuan Wang**, Qingni Wang, Yue Zhang, Tianlong Chen, Xiaofeng Zhu, Xiaoshuang Shi, Kaidi Xu. *Annual Meeting of the Association for Computational Linguistics (ACL)*, Main, 2025. 
 - [Word-Sequence Entropy: Towards Uncertainty Estimation in Free-Form Medical Question Answering Applications](https://www.sciencedirect.com/science/article/abs/pii/S0952197624017111). **Zhiyuan Wang**, Jinhao Duan, Chenxi Yuan, Qingyu Chen, Tianlong Chen, Yue Zhang, Ren Wang, Xiaoshuang Shi, Kaidi Xu. *Engineering Applications of Artificial Intelligence (EAAI)*, 2025.
 - [ConU: Conformal Uncertainty in Large Language Models with Correctness Coverage Guarantees](https://aclanthology.org/2024.findings-emnlp.404/). **Zhiyuan Wang**, Jinhao Duan, Lu Cheng, Yue Zhang, Qingni Wang, Xiaoshuang Shi, Kaidi Xu, Hengtao Shen, Xiaofeng Zhu. *Conference on Empirical Methods in Natural Language Processing (EMNLP)*, Findings, 2024.
 
 
 # 🏆 Honors and Awards
 - UESTC “Academic Youth” Graduate Student Honor Award (2025)
-- UESTC Outstanding Graduate Students (2024)
+- UESTC Outstanding Graduate Students (2024, 2025)
 - UESTC Scholarship for Outstanding Students (2023, 2024)
 - CQUPT Honours Degrees (2023)
 - Provincial Merit Student (2022)
@@ -54,12 +56,15 @@ My research interests include Uncertainty Quantification and Conformal Predictio
 # 🎆 Academic Services
 **Program Committee Member of Conferences:**
 - International Conference on Learning Representations (ICLR), 2025
+- Annual AAAI Conference on Artificial Intelligence (AAAI), 2026
 - Workshop on Large Language Models and Generative AI for Health at AAAI (GenAI4Health@AAAI), 2025
 - Survey Track for International Joint Conference on Artificial Intelligence (IJCAL), 2025
 - Annual Meeting of the Association for Computational Linguistics (ACL), 2025
 - Conference on Empirical Methods in Natural Language Processing (EMNLP), 2025
 - Annual Conference on Neural Information Processing Systems (NeurIPS), 2025
 - ACM International Conference on Multimedia (MM), 2025
+- Datasets Track for ACM MM, 2025
+- International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics (IJCNLP & AACL)
 
 **Journal Reviewer:**
 - Neural Networks (NN)
