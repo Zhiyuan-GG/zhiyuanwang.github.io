@@ -28,12 +28,18 @@ I am very excited about potential collaboration opportunities! If you share simi
 - Statistical verification based on inductive conformal prediction and learn-then-test. 
 
 # 🔥 News
-- *2025.05*: &nbsp;🥳🥳 One paper was accepted by ACL 2025 Main.
-- *2025.02*: &nbsp;🥳🥳 One paper was accepted by ICLR 2025 Spotlights.
-- *2025.01*: &nbsp;🥳🥳 One paper was accepted by EAAI.
+- *2025.05*: &nbsp;🎉🎉 One paper was accepted by ACL 2025 Main.
+- *2025.02*: &nbsp;🎉🎉 One paper was accepted by ICLR 2025 Spotlights.
+- *2025.01*: &nbsp;🎉🎉 One paper was accepted by EAAI.
 
 # 📚 Selected Publications
 \* indicates equal contribution
+
+Conformal Lesion Segmentation for 3D Medical Images
+
+Binyu Tan\*, **Zhiyuan Wang**\*, Jinhao Duan, Kaidi Xu, Heng Tao Shen, Xiaoshuang Shi, Fumin Shen
+
+*Preprint*, 2025. 
 
 [COIN: Uncertainty-Guarding Selective Question Answering for Foundation Models with Provable Risk Guarantees](https://arxiv.org/abs/2506.20178).
 
@@ -43,7 +49,7 @@ I am very excited about potential collaboration opportunities! If you share simi
 
 [SConU: Selective Conformal Uncertainty in Large Language Models](https://aclanthology.org/2025.acl-long.934/).
 
-**Zhiyuan Wang**, Qingni Wang, Yue Zhang, Tianlong Chen, Xiaofeng Zhu, Xiaoshuang Shi, Kaidi Xu. 
+**Zhiyuan Wang**\*, Qingni Wang\*, Yue Zhang, Tianlong Chen, Xiaofeng Zhu, Xiaoshuang Shi, Kaidi Xu. 
 
 *Annual Meeting of the Association for Computational Linguistics (ACL)*, Main, 2025. 
 
