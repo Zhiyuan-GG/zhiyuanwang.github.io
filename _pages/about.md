@@ -1,4 +1,4 @@
-<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/aed465b7-d3ab-4124-a2e0-8c9953d8ef44" />---
+---
 permalink: /
 title: ""
 excerpt: ""
@@ -22,11 +22,11 @@ My research interests include Uncertainty Quantification and Conformal Predictio
 I am very excited about potential collaboration opportunities! If you share similar research interests and find my work interesting, I warmly welcome you to contact me via email!
 
 
-# 🛸 Research
+# 🤖 Research
 - Hallucination detection via uncertainty decomposition and quantification; 
 - Statistical verification based on inductive conformal prediction and learn-then-test. 
 
-# 🤖 News
+# 🔥 News
 - *2025.05*: &nbsp;🥳🥳 One paper was accepted by ACL 2025 Main.
 - *2025.02*: &nbsp;🥳🥳 One paper was accepted by ICLR 2025 Spotlights.
 - *2025.01*: &nbsp;🥳🥳 One paper was accepted by EAAI.
@@ -69,11 +69,11 @@ I am very excited about potential collaboration opportunities! If you share simi
 - CQUPT First-class Scholarship (2020, 2021, 2022)
 - CQUPT Merit Student (2020, 2021, 2022)
 
-# 🏫 Education
+# 📖 Education
 - *Sep 2023 - (now)*, University of Electronic Science and Technology of China (UESTC), Master of Computer Science and Technology.
 - *Sep 2019 - Jun 2023*, Chongqing University of Posts and Telecommunications (CQUPT), Bachelor of Internet of Things Engineering (Hons).
 
-# 👨‍🎓 Academic Services
+# 💬 Academic Services
 **Program Committee Member of Conferences:**
 - International Conference on Learning Representations (ICLR), 2025
 - Annual AAAI Conference on Artificial Intelligence (AAAI), 2026
