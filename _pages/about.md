@@ -69,7 +69,7 @@ I am very excited about potential collaboration opportunities! If you share simi
 - CQUPT First-class Scholarship (2020, 2021, 2022)
 - CQUPT Merit Student (2020, 2021, 2022)
 
-# 📖 Education
+# 👨‍🎓 Education
 - *Sep 2023 - (now)*, University of Electronic Science and Technology of China (UESTC), Master of Computer Science and Technology.
 - *Sep 2019 - Jun 2023*, Chongqing University of Posts and Telecommunications (CQUPT), Bachelor of Internet of Things Engineering (Hons).
 
