@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I'm Zhiyuan Wang. I am a final-year Master's student in Computer Science and Technology at the University of Electronic Science and Technology of China (UESTC), co-advised by Prof. [Xiaoshuang Shi](https://scholar.google.com/citations?user=BWGQt3YAAAAJ&hl=en) and Prof. [Kaidi Xu](https://scholar.google.com/citations?user=lYK0wlsAAAAJ&hl=en) (Drexel University). Previously, I received my bachelor's degree (Hons.) in Internet of Things Engineering from Chongqing University of Posts and Telecommunications (CQUPT) in 2023. 
+Hi, I'm Zhiyuan Wang. I am a final-year Master's student in Computer Science and Technology at the University of Electronic Science and Technology of China (UESTC), co-advised by Prof. [Xiaoshuang Shi](https://scholar.google.com/citations?user=BWGQt3YAAAAJ&hl=en) and Prof. [Kaidi Xu](https://scholar.google.com/citations?user=lYK0wlsAAAAJ&hl=en) (CityUHK). Previously, I received my bachelor's degree (Hons.) in Internet of Things Engineering from Chongqing University of Posts and Telecommunications (CQUPT) in 2023. 
 My research interests include Uncertainty Quantification and Conformal Prediction in Foundation Models. 
 
 I am very excited about potential collaboration opportunities! If you share similar research interests and find my work interesting, I warmly welcome you to contact me via email!
