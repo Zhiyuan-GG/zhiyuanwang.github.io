@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I'm Zhiyuan Wang. I am currently a second-year Master's student in Computer Science and Technology at the University of Electronic Science and Technology of China (UESTC), co-advised by Prof. [Xiaoshuang Shi](https://scholar.google.com/citations?user=BWGQt3YAAAAJ&hl=en) and Prof. [Kaidi Xu](https://scholar.google.com/citations?user=lYK0wlsAAAAJ&hl=en) (Drexel University). Previously, I received my bachelor's degree (Hons.) in Internet of Things Engineering from Chongqing University of Posts and Telecommunications (CQUPT) in 2023. 
+Hi, I'm Zhiyuan Wang. I am a final-year Master's student in Computer Science and Technology at the University of Electronic Science and Technology of China (UESTC), co-advised by Prof. [Xiaoshuang Shi](https://scholar.google.com/citations?user=BWGQt3YAAAAJ&hl=en) and Prof. [Kaidi Xu](https://scholar.google.com/citations?user=lYK0wlsAAAAJ&hl=en) (Drexel University). Previously, I received my bachelor's degree (Hons.) in Internet of Things Engineering from Chongqing University of Posts and Telecommunications (CQUPT) in 2023. 
 My research interests include Uncertainty Quantification and Conformal Prediction in Foundation Models. 
 
 I am very excited about potential collaboration opportunities! If you share similar research interests and find my work interesting, I warmly welcome you to contact me via email!
@@ -83,17 +83,18 @@ Binyu Tan\*, **Zhiyuan Wang**\*, Jinhao Duan, Kaidi Xu, Heng Tao Shen, Xiaoshuan
 
 # 💬 Academic Services
 **Program Committee Member of Conferences:**
-- International Conference on Learning Representations (ICLR), 2025
 - Annual AAAI Conference on Artificial Intelligence (AAAI), 2026
-- Workshop on Large Language Models and Generative AI for Health at AAAI (GenAI4Health@AAAI), 2025
-- Survey Track for International Joint Conference on Artificial Intelligence (IJCAL), 2025
-- Annual Meeting of the Association for Computational Linguistics (ACL), 2025
-- Conference on Empirical Methods in Natural Language Processing (EMNLP), 2025
-- Annual Conference on Neural Information Processing Systems (NeurIPS), 2025
+- International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics (IJCNLP & AACL), 2025
 - ACM International Conference on Multimedia (MM), 2025
-- Datasets Track for ACM MM, 2025
-- ACM MM Asia, 2025
-- International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics (IJCNLP & AACL)
+- Annual Conference on Neural Information Processing Systems (NeurIPS), 2025
+- Conference on Empirical Methods in Natural Language Processing (EMNLP), 2025
+- Annual Meeting of the Association for Computational Linguistics (ACL), 2025
+- International Joint Conference on Artificial Intelligence (IJCAL), 2025
+- Workshop on Large Language Models and Generative AI for Health at AAAI (GenAI4Health@AAAI), 2025 
+- International Conference on Learning Representations (ICLR), 2025
+
+**Area Chair of Conferences:**
+- ICLR 2026
 
 **Journal Reviewer:**
 - Neural Networks (NN)
