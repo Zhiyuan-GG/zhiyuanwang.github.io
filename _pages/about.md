@@ -29,7 +29,7 @@ I am very excited about potential collaboration opportunities! If you share simi
 - Statistical verification based on inductive conformal prediction and learn-then-test. 
 
 # 🔥 News
-- *2025.09*: &nbsp;🎉🎉 Invited to serve as ICLR 2026 Area Chair!
+- *2025.09*: &nbsp;🎉🎉 <span style="color:blue">[Invited to serve as ICLR 2026 Area Chair!]</span>
 - *2025.05*: &nbsp;🎉🎉 One paper was accepted by ACL 2025 Main.
 - *2025.02*: &nbsp;🎉🎉 One paper was accepted by ICLR 2025 Spotlights.
 - *2025.01*: &nbsp;🎉🎉 One paper was accepted by EAAI.
