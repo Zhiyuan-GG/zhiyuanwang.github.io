@@ -29,7 +29,7 @@ I am very excited about potential collaboration opportunities! If you share simi
 - Statistical verification based on inductive conformal prediction and learn-then-test. 
 
 # 🔥 News
-- *2025.09*: &nbsp;🎉🎉 <span style="color:blue">Invited to serve as ICLR 2026 Area Chair!</span>
+- *2025.09*: &nbsp;🎉🎉 Invited to serve as ICLR 2026 Area Chair!
 - *2025.05*: &nbsp;🎉🎉 One paper was accepted by ACL 2025 Main.
 - *2025.02*: &nbsp;🎉🎉 One paper was accepted by ICLR 2025 Spotlights.
 - *2025.01*: &nbsp;🎉🎉 One paper was accepted by EAAI.
@@ -41,31 +41,31 @@ Conformal Lesion Segmentation for 3D Medical Images
 
 Binyu Tan\*, **Zhiyuan Wang**\*, Jinhao Duan, Kaidi Xu, Heng Tao Shen, Xiaoshuang Shi, Fumin Shen
 
-*Preprint*, 2025. 
+<span style="color:blue">*Preprint*</span>, 2025. 
 
 [COIN: Uncertainty-Guarding Selective Question Answering for Foundation Models with Provable Risk Guarantees](https://arxiv.org/abs/2506.20178).
 
 **Zhiyuan Wang**, Jinhao Duan, Qingni Wang, Xiaofeng Zhu, Tianlong Chen, Xiaoshuang Shi, Kaidi Xu. 
 
-*Preprint*, 2025. 
+<span style="color:blue">*Preprint*</span>, 2025. 
 
 [SConU: Selective Conformal Uncertainty in Large Language Models](https://aclanthology.org/2025.acl-long.934/).
 
 **Zhiyuan Wang**\*, Qingni Wang\*, Yue Zhang, Tianlong Chen, Xiaofeng Zhu, Xiaoshuang Shi, Kaidi Xu. 
 
-*Annual Meeting of the Association for Computational Linguistics (ACL)*, Main, 2025. 
+<span style="color:blue">*Annual Meeting of the Association for Computational Linguistics (ACL)*</span>, Main, 2025. 
 
 [Word-Sequence Entropy: Towards Uncertainty Estimation in Free-Form Medical Question Answering Applications](https://www.sciencedirect.com/science/article/abs/pii/S0952197624017111). 
 
 **Zhiyuan Wang**, Jinhao Duan, Chenxi Yuan, Qingyu Chen, Tianlong Chen, Yue Zhang, Ren Wang, Xiaoshuang Shi, Kaidi Xu. 
 
-*Engineering Applications of Artificial Intelligence (EAAI)*, 2025.
+<span style="color:blue">*Engineering Applications of Artificial Intelligence (EAAI)*</span>, 2025.
 
 [ConU: Conformal Uncertainty in Large Language Models with Correctness Coverage Guarantees](https://aclanthology.org/2024.findings-emnlp.404/). 
 
 **Zhiyuan Wang**, Jinhao Duan, Lu Cheng, Yue Zhang, Qingni Wang, Xiaoshuang Shi, Kaidi Xu, Hengtao Shen, Xiaofeng Zhu. 
 
-*Conference on Empirical Methods in Natural Language Processing (EMNLP)*, Findings, 2024.
+<span style="color:blue">*Conference on Empirical Methods in Natural Language Processing (EMNLP)*</span>, Findings, 2024.
 
 
 # 🏆 Honors and Awards
