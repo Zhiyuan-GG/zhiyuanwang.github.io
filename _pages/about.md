@@ -94,8 +94,5 @@ Binyu Tan\*, **Zhiyuan Wang**\*, Jinhao Duan, Kaidi Xu, Heng Tao Shen, Xiaoshuan
 - Workshop on Large Language Models and Generative AI for Health at AAAI (GenAI4Health@AAAI), 2025 
 - International Conference on Learning Representations (ICLR), 2025
 
-**Area Chair of Conferences:**
-- ICLR 2026
-
 **Journal Reviewer:**
 - Neural Networks (NN)
