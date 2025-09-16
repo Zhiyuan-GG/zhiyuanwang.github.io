@@ -89,9 +89,9 @@ Binyu Tan\*, **Zhiyuan Wang**\*, Jinhao Duan, Kaidi Xu, Heng Tao Shen, Xiaoshuan
 - Annual Conference on Neural Information Processing Systems (NeurIPS), 2025
 - Conference on Empirical Methods in Natural Language Processing (EMNLP), 2025
 - Annual Meeting of the Association for Computational Linguistics (ACL), 2025
-- International Joint Conference on Artificial Intelligence (IJCAL), 2025
+- International Joint Conference on Artificial Intelligence (IJCAI), 2025
 - Workshop on Large Language Models and Generative AI for Health at AAAI (GenAI4Health@AAAI), 2025 
-- International Conference on Learning Representations (ICLR), 2025
+- International Conference on Learning Representations (ICLR), 2025, 2026
 
 **Journal Reviewer:**
 - Neural Networks (NN)
