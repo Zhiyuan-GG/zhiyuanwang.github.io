@@ -83,15 +83,16 @@ Binyu Tan\*, **Zhiyuan Wang**\*, Jinhao Duan, Kaidi Xu, Heng Tao Shen, Xiaoshuan
 
 # 💬 Academic Services
 **Program Committee Member of Conferences:**
-- Annual AAAI Conference on Artificial Intelligence (AAAI), 2026
-- International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics (IJCNLP & AACL), 2025
-- ACM International Conference on Multimedia (MM), 2025
+- International Conference on Learning Representations (ICLR), 2025, 2026
 - Annual Conference on Neural Information Processing Systems (NeurIPS), 2025
-- Conference on Empirical Methods in Natural Language Processing (EMNLP), 2025
 - Annual Meeting of the Association for Computational Linguistics (ACL), 2025
+- Conference on Empirical Methods in Natural Language Processing (EMNLP), 2025
+- Conference of the European Chapter of the Association for Computational Linguistics (EACL), 2026
+- International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics (IJCNLP & AACL), 2025
+- Annual AAAI Conference on Artificial Intelligence (AAAI), 2026
+- ACM International Conference on Multimedia (MM), 2025
 - International Joint Conference on Artificial Intelligence (IJCAI), 2025
 - Workshop on Large Language Models and Generative AI for Health at AAAI (GenAI4Health@AAAI), 2025 
-- International Conference on Learning Representations (ICLR), 2025, 2026
 
 **Journal Reviewer:**
 - Neural Networks (NN)
