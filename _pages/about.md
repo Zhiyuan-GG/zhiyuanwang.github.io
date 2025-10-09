@@ -91,9 +91,10 @@ Binyu Tan\*, **Zhiyuan Wang**\*, Jinhao Duan, Kaidi Xu, Heng Tao Shen, Xiaoshuan
 - Conference of the European Chapter of the Association for Computational Linguistics (EACL), 2026
 - International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics (IJCNLP & AACL), 2025
 - Annual AAAI Conference on Artificial Intelligence (AAAI), 2026
+- Workshop on Large Language Models and Generative AI for Health at AAAI (GenAI4Health@AAAI), 2025
 - ACM International Conference on Multimedia (MM), 2025
 - International Joint Conference on Artificial Intelligence (IJCAI), 2025
-- Workshop on Large Language Models and Generative AI for Health at AAAI (GenAI4Health@AAAI), 2025 
+- IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2026
 
 **Journal Reviewer:**
 - Neural Networks (NN)
