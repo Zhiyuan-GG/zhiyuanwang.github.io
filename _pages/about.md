@@ -69,14 +69,14 @@ Binyu Tan\*, **Zhiyuan Wang**\*, Jinhao Duan, Kaidi Xu, Heng Tao Shen, Xiaoshuan
 
 
 # 🏆 Honors and Awards
+- National Scholarship (2021, 2022, 2025)
 - UESTC “Academic Youth” Graduate Student Honor Award (2025)
 - UESTC Outstanding Graduate Students (2024, 2025)
-- UESTC Scholarship for Outstanding Students (2023, 2024)
+- UESTC Scholarship for Outstanding Students (2023-2025)
 - CQUPT Honours Degrees (2023)
 - Provincial Merit Student (2022)
-- National Scholarship (2021, 2022)
-- CQUPT First-class Scholarship (2020, 2021, 2022)
-- CQUPT Merit Student (2020, 2021, 2022)
+- CQUPT First-class Scholarship (2020-2022)
+- CQUPT Merit Student (2020-2022)
 
 # 👨‍🎓 Education
 - *Sep 2023 - (now)*, University of Electronic Science and Technology of China (UESTC), Master of Computer Science and Technology.
