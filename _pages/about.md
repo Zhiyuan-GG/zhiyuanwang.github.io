@@ -37,7 +37,7 @@ I am very excited about potential collaboration opportunities! If you share simi
 # 📚 Selected Publications
 \* indicates equal contribution
 
-Conformal Lesion Segmentation for 3D Medical Images.
+[Conformal Lesion Segmentation for 3D Medical Images](https://arxiv.org/abs/2510.17897).
 
 Binyu Tan\*, **Zhiyuan Wang**\*, Jinhao Duan, Kaidi Xu, Heng Tao Shen, Xiaoshuang Shi, Fumin Shen.
 
