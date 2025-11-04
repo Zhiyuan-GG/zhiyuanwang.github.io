@@ -29,7 +29,8 @@ I am very excited about potential collaboration opportunities! If you share simi
 - Statistical verification based on inductive conformal prediction and learn-then-test. 
 
 # 🔥 News
-- *2025.10*: &nbsp;🎉🎉 Awarded the National Scholarship for Graduate Students. 
+- *2025.10*: &nbsp;🎉🎉 Awarded the National Scholarship for Graduate Students.
+- *2025.09*: &nbsp;🎉🎉 Invited to serve as ICLR 2026 Area Chair.
 - *2025.05*: &nbsp;🎉🎉 One paper was accepted by ACL 2025 Main.
 - *2025.02*: &nbsp;🎉🎉 One paper was accepted by ICLR 2025 Spotlights.
 - *2025.01*: &nbsp;🎉🎉 One paper was accepted by EAAI.
@@ -80,24 +81,14 @@ Binyu Tan\*, **Zhiyuan Wang**\*, Jinhao Duan, Kaidi Xu, Heng Tao Shen, Xiaoshuan
 
 # 👨‍🎓 Education
 - *Sep 2023 - (now)*, University of Electronic Science and Technology of China (UESTC), Master of Computer Science and Technology.
-- *Sep 2019 - Jun 2023*, Chongqing University of Posts and Telecommunications (CQUPT), Bachelor of Internet of Things Engineering (Hons).
+- *Sep 2019 - Jun 2023*, Chongqing University of Posts and Telecommunications (CQUPT), Bachelor of Internet of Things Engineering (*Distinction*).
 
 # 💬 Academic Services
 **Program Committee Member of Conferences:**
-- International Conference on Learning Representations (ICLR), 2025, 2026
-- Annual Conference on Neural Information Processing Systems (NeurIPS), 2025
-- Annual Meeting of the Association for Computational Linguistics (ACL), 2025
-- Conference on Empirical Methods in Natural Language Processing (EMNLP), 2025
-- Conference of the European Chapter of the Association for Computational Linguistics (EACL), 2026
-- International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics (IJCNLP & AACL), 2025
-- Annual AAAI Conference on Artificial Intelligence (AAAI), 2026
-- Workshop on Large Language Models and Generative AI for Health at AAAI (GenAI4Health@AAAI), 2025
-- ACM International Conference on Multimedia (MM), 2025
-- International Joint Conference on Artificial Intelligence (IJCAI), 2025
-- IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2026
+ICLR 2025-2026, NeurIPS 2025, ACL 2025, EMNLP 2025, EACL 2026, AACL 2025, AAAI 2025-2026, ACM MM 2025, IJCAI 2025, ICASSP 2026
 
 **Journal Reviewer:**
-- Neural Networks (NN)
+Neural Networks (NN), Transactions on Machine Learning Research (TMLR)
 
 
 
