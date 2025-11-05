@@ -72,7 +72,7 @@ Binyu Tan\*, **Zhiyuan Wang**\*, Jinhao Duan, Kaidi Xu, Heng Tao Shen, Xiaoshuan
 # 🏆 Honors and Awards
 - National Scholarship (2021, 2022, 2025)
 - UESTC “Academic Youth” Graduate Student Honor Award (2025)
-- UESTC Outstanding Graduate Students (2024, 2025)
+- UESTC Outstanding Graduate Students (2024, 2025×2)
 - UESTC Scholarship for Outstanding Students (2023-2025)
 - CQUPT Honours Degrees (2023)
 - Provincial Merit Student (2022)
