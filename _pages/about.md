@@ -31,7 +31,6 @@ I am very excited about potential collaboration opportunities! If you share simi
 # 🔥 News
 - *2025.11*: &nbsp;🎉🎉 One paper was accepted by AAAI 2026.
 - *2025.10*: &nbsp;🎉🎉 Awarded the National Scholarship for Graduate Students.
-- *2025.09*: &nbsp;🎉🎉 Invited to serve as Area Chair of ICLR 2026.
 - *2025.05*: &nbsp;🎉🎉 One paper was accepted by ACL 2025.
 - *2025.02*: &nbsp;🎉🎉 One paper was accepted by ICLR 2025.
 - *2025.01*: &nbsp;🎉🎉 One paper was accepted by EAAI.
