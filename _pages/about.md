@@ -42,7 +42,7 @@ I am very excited about potential collaboration opportunities! If you share simi
 
 **Zhiyuan Wang**, Jinhao Duan, Qingni Wang, Xiaofeng Zhu, Tianlong Chen, Xiaoshuang Shi, Kaidi Xu. 
 
-<span style="color:blue">*Annual AAAI Conference on Artificial Intelligence (AAAI)*</span>, Poster, 2025. 
+<span style="color:blue">*Annual AAAI Conference on Artificial Intelligence (AAAI)*</span>, Poster, 2026. 
 
 [SConU: Selective Conformal Uncertainty in Large Language Models](https://aclanthology.org/2025.acl-long.934/).
 
