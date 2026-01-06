@@ -35,7 +35,7 @@ I am very excited about potential collaboration opportunities! If you share simi
 - *2025.02*: &nbsp;🎉🎉 One paper was accepted by ICLR 2025.
 - *2025.01*: &nbsp;🎉🎉 One paper was accepted by EAAI.
 
-# 📚 Selected Publications
+# 📚 Selected Projects
 \* indicates equal contribution
 
 [COIN: Uncertainty-Guarding Selective Question Answering for Foundation Models with Provable Risk Guarantees](https://arxiv.org/abs/2506.20178).
@@ -74,7 +74,7 @@ I am very excited about potential collaboration opportunities! If you share simi
 - CQUPT Merit Student (2020-2022)
 
 # 👨‍🎓 Education
-- *Sep 2023 - (now)*, University of Electronic Science and Technology of China (UESTC), Master of Computer Science and Technology.
+- *Sep 2023 - Jun 2026*, University of Electronic Science and Technology of China (UESTC), Master of Computer Science and Technology.
 - *Sep 2019 - Jun 2023*, Chongqing University of Posts and Telecommunications (CQUPT), Bachelor of Internet of Things Engineering (*Hons*).
 
 # 💬 Academic Services
