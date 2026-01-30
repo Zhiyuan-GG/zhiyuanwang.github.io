@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I'm Zhiyuan Wang. I am a final-year Master's student in Computer Science and Technology at the University of Electronic Science and Technology of China (UESTC), co-advised by Prof. [Xiaoshuang Shi](https://scholar.google.com/citations?user=BWGQt3YAAAAJ&hl=en) and Prof. [Kaidi Xu](https://scholar.google.com/citations?user=lYK0wlsAAAAJ&hl=en) (CityUHK). Previously, I received my bachelor's degree (*Hons*) in Internet of Things Engineering from Chongqing University of Posts and Telecommunications (CQUPT) in 2023. 
+Hi, I'm Zhiyuan Wang. I am a final-year Master's student in Computer Science and Technology at the University of Electronic Science and Technology of China (UESTC), co-advised by Prof. [Xiaoshuang Shi](https://scholar.google.com/citations?user=BWGQt3YAAAAJ&hl=en) and Prof. [Kaidi Xu](https://scholar.google.com/citations?user=lYK0wlsAAAAJ&hl=en) (CityUHK). Previously, I received my bachelor's degree (*Hons*) in Internet of Things Engineering (*Rank 1/154*) from Chongqing University of Posts and Telecommunications (CQUPT) in 2023. 
 
 My research interests include Uncertainty Quantification and Conformal Prediction in Foundation Models. 
 
@@ -26,16 +26,16 @@ I am very excited about potential collaboration opportunities! If you share simi
 
 # 🤖 Research
 - Hallucination detection via uncertainty decomposition and quantification; 
-- Statistical verification based on inductive conformal prediction and learn-then-test. 
+- Task-specific risk control via split conformal prediction, confidence interval computation, and linear expectation constraint. 
 
 # 🔥 News
 - *2025.11*: &nbsp;🎉🎉 One paper was accepted by AAAI 2026.
 - *2025.10*: &nbsp;🎉🎉 Awarded the National Scholarship for Graduate Students.
 - *2025.05*: &nbsp;🎉🎉 One paper was accepted by ACL 2025.
 - *2025.02*: &nbsp;🎉🎉 One paper was accepted by ICLR 2025.
-- *2025.01*: &nbsp;🎉🎉 One paper was accepted by EAAI.
+- *2025.01*: &nbsp;🎉🎉 One paper was accepted by Engineering Applications of Artificial Intelligence. 
 
-# 📚 Selected Projects
+# 📚 Selected Publications 
 \* indicates equal contribution
 
 [COIN: Uncertainty-Guarding Selective Question Answering for Foundation Models with Provable Risk Guarantees](https://arxiv.org/abs/2506.20178).
@@ -79,10 +79,10 @@ I am very excited about potential collaboration opportunities! If you share simi
 
 # 💬 Academic Services
 **Program Committee Member of Conferences:**
-ICLR 2025-2026, NeurIPS 2025, ACL 2025, EMNLP 2025, EACL 2026, AACL 2025, AAAI 2025-2026, ACM MM 2025, IJCAI 2025, ICASSP 2026
+ICLR 2025-2026, NeurIPS 2025, ICML 2026, ACL 2025, EMNLP 2025, EACL 2026, AACL 2025, AAAI 2025-2026, ACM MM 2025, IJCAI 2025-2026, ICASSP 2026
 
 **Journal Reviewer:**
-Neural Networks (NN), Transactions on Machine Learning Research (TMLR), IEEE Transactions on Image Processing (TIP)
+IEEE Transactions on Image Processing (TIP), Transactions on Machine Learning Research (TMLR), Neural Networks (NN)
 
 
 
