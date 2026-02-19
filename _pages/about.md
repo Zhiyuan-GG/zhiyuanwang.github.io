@@ -79,7 +79,7 @@ I am very excited about potential collaboration opportunities! If you share simi
 
 # 💬 Academic Services
 **Program Committee Member of Conferences:**
-ICLR 2025-2026, NeurIPS 2025, ACL 2025-2026, EMNLP 2025, EACL 2026, AACL 2025, AAAI 2025-2026, ACM MM 2025, IJCAI 2025-2026, ICASSP 2026
+ICLR 2025-2026, NeurIPS 2025, ACL 2025-2026, EMNLP 2025, EACL 2026, AACL 2025, AAAI 2025-2026, ACM MM 2025-2026, IJCAI 2025-2026, ICASSP 2026
 
 **Journal Reviewer:**
 IEEE Transactions on Image Processing (TIP), Transactions on Machine Learning Research (TMLR), Neural Networks (NN)
