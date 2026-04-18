@@ -38,8 +38,6 @@ I am very excited about potential collaboration opportunities! If you share simi
 # 📚 Selected Publications 
 \* indicates equal contribution
 
-<div style="max-height:280px; overflow-y:auto; border:1px solid #ccc; padding:10px;">
-  <ul>
 [COIN: Uncertainty-Guarding Selective Question Answering for Foundation Models with Provable Risk Guarantees](https://arxiv.org/abs/2506.20178).
 
 **Zhiyuan Wang**, Jinhao Duan, Qingni Wang, Xiaofeng Zhu, Tianlong Chen, Xiaoshuang Shi, Kaidi Xu. 
@@ -63,8 +61,6 @@ I am very excited about potential collaboration opportunities! If you share simi
 **Zhiyuan Wang**, Jinhao Duan, Lu Cheng, Yue Zhang, Qingni Wang, Xiaoshuang Shi, Kaidi Xu, Hengtao Shen, Xiaofeng Zhu. 
 
 <span style="color:red">*Conference on Empirical Methods in Natural Language Processing (EMNLP)*</span>, Findings, 2024.
-  </ul>
-</div>
 
 # 🏆 Honors and Awards
 - National Scholarship (2021, 2022, 2025)
