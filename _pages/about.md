@@ -29,11 +29,16 @@ I am very excited about potential collaboration opportunities! If you share simi
 - Task-specific risk control via split conformal prediction, confidence interval computation, and linear expectation constraint. 
 
 # 🔥 News
-- *2025.11*: &nbsp;🎉🎉 One paper was accepted by AAAI 2026.
-- *2025.10*: &nbsp;🎉🎉 Awarded the National Scholarship for Graduate Students.
-- *2025.05*: &nbsp;🎉🎉 One paper was accepted by ACL 2025.
-- *2025.02*: &nbsp;🎉🎉 One paper was accepted by ICLR 2025.
-- *2025.01*: &nbsp;🎉🎉 One paper was accepted by Engineering Applications of Artificial Intelligence. 
+
+<div style="max-height:280px; overflow-y:auto; border:1px solid #ccc; padding:10px;">
+  <ul>
+    <li><em>2025.11</em>: One paper was accepted by AAAI 2026.</li>
+    <li><em>2025.10</em>: Awarded the National Scholarship for Graduate Students.</li>
+    <li><em>2025.05</em>: One paper was accepted by ACL 2025.</li>
+    <li><em>2025.02</em>: One paper was accepted by ICLR 2025.</li>
+    <li><em>2025.01</em>: One paper was accepted by Engineering Applications of Artificial Intelligence.</li>
+  </ul>
+</div>
 
 # 📚 Selected Publications 
 \* indicates equal contribution
