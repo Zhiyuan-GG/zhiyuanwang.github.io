@@ -46,7 +46,7 @@ I am very excited about potential collaboration opportunities! If you share simi
 
 1. Zijun Jia, Yuanchang Ye, Yiyao Qian, Haoning Wang, Diyin Tang, Jinsong Yu\*, **Zhiyuan Wang**\*. BalanceRAG: Balancing Cost and Utility in Retrieval-Augmented Generation via Risk-Controlled Cascading. *Preprint*.
 
-1. Anqi Hu, **Zhiyuan Wang**$^\dagger$\*, Zijun Jia, Bo Fu. MiRD: Reliable Set-Valued Prediction for Open-Ended Question Answering via Miscoverage Risk Decomposition. *Preprint*.
+1. Anqi Hu$^\dagger$, **Zhiyuan Wang**$^\dagger$\*, Zijun Jia, Bo Fu\*. MiRD: Reliable Set-Valued Prediction for Open-Ended Question Answering via Miscoverage Risk Decomposition. *Preprint*.
 
 1. Binyu Tan$^\dagger$, **Zhiyuan Wang**$^\dagger$, Jinhao Duan, Kaidi Xu, Heng Tao Shen, Xiaoshuang Shi, Fumin Shen. Conformal 3D Lesion Segmentation with Balanced Risk Control. *Preprint*.
 
