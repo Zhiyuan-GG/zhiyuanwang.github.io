@@ -48,7 +48,9 @@ I am very excited about potential collaboration opportunities! If you share simi
 
 1. Anqi Hu$^\dagger$, **Zhiyuan Wang**$^\dagger$\*, Zijun Jia, Bo Fu\*. MiRD: Reliable Set-Valued Prediction for Open-Ended Question Answering via Miscoverage Risk Decomposition. *Preprint*.
 
-1. Binyu Tan$^\dagger$, **Zhiyuan Wang**$^\dagger$, Jinhao Duan, Kaidi Xu, Heng Tao Shen, Xiaoshuang Shi, Fumin Shen. Conformal 3D Lesion Segmentation with Balanced Risk Control. *Preprint*.
+1. Ye Li, Anqi Hu, Yuanchang Ye, Shiyan Tong, **Zhiyuan Wang**\*, Bo Fu\*. Set-Valued Prediction for Large Language Models with Feasibility-Aware Coverage Guarantees. *Under Review*.
+
+1. Binyu Tan$^\dagger$, **Zhiyuan Wang**$^\dagger$, Jinhao Duan, Kaidi Xu, Heng Tao Shen, Xiaoshuang Shi, Fumin Shen. Conformal 3D Lesion Segmentation with Balanced Risk Control. *Under Review*.
 
 1. **Zhiyuan Wang**, Aniri, Tianlong Chen, Yue Zhang, Heng Tao Shen, Xiaoshuang Shi, Kaidi Xu. A Linear Expectation Constraint for Selective Prediction and Routing with False-Discovery Control. *Preprint*.
 
