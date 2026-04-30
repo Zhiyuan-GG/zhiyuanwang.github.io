@@ -54,7 +54,7 @@ I am very excited about potential collaboration opportunities! If you share simi
 
 1. **Zhiyuan Wang**, Aniri, Tianlong Chen, Yue Zhang, Heng Tao Shen, Xiaoshuang Shi, Kaidi Xu. A Linear Expectation Constraint for Selective Prediction and Routing with False-Discovery Control. *Under Review*.
 
-1. **Zhiyuan Wang**, Jinhao Duan, Qingni Wang, Xiaofeng Zhu, Tianlong Chen, Xiaoshuang Shi, Kaidi Xu. [COIN: Uncertainty-Guarding Selective Question Answering for Foundation Models with Provable Risk Guarantees](https://arxiv.org/abs/2506.20178). <span style="color:red">*Annual AAAI Conference on Artificial Intelligence (AAAI)*</span>, Poster, 2026. 
+1. **Zhiyuan Wang**, Jinhao Duan, Qingni Wang, Xiaofeng Zhu, Tianlong Chen, Xiaoshuang Shi, Kaidi Xu. [COIN: Uncertainty-Guarding Selective Question Answering for Foundation Models with Provable Risk Guarantees](https://ojs.aaai.org/index.php/AAAI/article/view/40667). <span style="color:red">*Annual AAAI Conference on Artificial Intelligence (AAAI)*</span>, Poster, 2026. 
 
 1. **Zhiyuan Wang**$^\dagger$, Qingni Wang$^\dagger$, Yue Zhang, Tianlong Chen, Xiaofeng Zhu, Xiaoshuang Shi, Kaidi Xu. [SConU: Selective Conformal Uncertainty in Large Language Models](https://aclanthology.org/2025.acl-long.934/). <span style="color:red">*Annual Meeting of the Association for Computational Linguistics (ACL)*</span>, Main, 2025. 
 
