@@ -32,7 +32,7 @@ I am very excited about potential collaboration opportunities! If you share simi
 
 <div style="max-height:280px; overflow-y:auto; border:1px solid #ccc; padding:10px;">
   <ul>
-    <li><em>2026.05</em>: Two papers were accepted by ICML2026.</li>
+    <li><em>2026.05</em>: Two papers were accepted by ICML 2026.</li>
     <li><em>2026.04</em>: Admitted to the PhD program in Data Science at CityUHK.</li>
     <li><em>2025.11</em>: One paper was accepted by AAAI 2026.</li>
     <li><em>2025.10</em>: Awarded the National Scholarship for Graduate Students.</li>
