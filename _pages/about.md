@@ -45,7 +45,7 @@ I am very excited about potential collaboration opportunities! If you share simi
 # 📚 Selected Publications 
 (\*corresponding author; $^\dagger$equal contribution)
 
-1. Zijun Jia, Yuanchang Ye, Sen Jia, Yiyao Qian, Haoning Wang, Baojie Chen, Diyin Tang, Jinsong Yu\*, **Zhiyuan Wang**\*. BalanceRAG: Joint Risk Calibration for Cascaded Retrieval-Augmented Generation. *Preprint*.
+1. Zijun Jia, Yuanchang Ye, Sen Jia, Yiyao Qian, Haoning Wang, Baojie Chen, Diyin Tang, Jinsong Yu\*, **Zhiyuan Wang**\*. [BalanceRAG: Joint Risk Calibration for Cascaded Retrieval-Augmented Generation](https://arxiv.org/abs/2605.20084). *Preprint*.
 
 1. Anqi Hu$^\dagger$, **Zhiyuan Wang**$^\dagger$\*, Zijun Jia, Bo Fu\*. MiRD: Reliable Set-Valued Prediction for Open-Ended Question Answering via Miscoverage Risk Decomposition. *Preprint*.
 
