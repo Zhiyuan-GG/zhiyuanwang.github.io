@@ -47,7 +47,7 @@ I am very excited about potential collaboration opportunities! If you share simi
 
 1. Zijun Jia, Yuanchang Ye, Sen Jia, Yiyao Qian, Haoning Wang, Baojie Chen, Diyin Tang, Jinsong Yu\*, **Zhiyuan Wang**\*. [BalanceRAG: Joint Risk Calibration for Cascaded Retrieval-Augmented Generation](https://arxiv.org/abs/2605.20084). *Preprint*.
 
-1. Anqi Hu$^\dagger$, **Zhiyuan Wang**$^\dagger$\*, Zijun Jia, Bo Fu\*. MiRD: Reliable Set-Valued Prediction for Open-Ended Question Answering via Miscoverage Risk Decomposition. *Preprint*.
+1. Anqi Hu$^\dagger$, **Zhiyuan Wang**$^\dagger$\*, Zijun Jia, Bo Fu\*. [MiRD: Reliable Set-Valued Prediction for Open-Ended Question Answering via Miscoverage Risk Decomposition](https://arxiv.org/abs/2605.27091). *Preprint*.
 
 1. Ye Li, Anqi Hu, Yuanchang Ye, Shiyan Tong, **Zhiyuan Wang**\*, Bo Fu\*. [Set-Valued Prediction for Large Language Models with Feasibility-Aware Coverage Guarantees](https://arxiv.org/abs/2603.22966). *Under Review*.
 
