@@ -32,6 +32,7 @@ I am very excited about potential collaboration opportunities! If you share simi
 
 <div style="max-height:280px; overflow-y:auto; border:1px solid #ccc; padding:10px;">
   <ul>
+    <li><em>2026.05</em>: Passed the Outstanding Master’s Thesis selection defense and received unanimous “Excellent” ratings.</li>
     <li><em>2026.05</em>: Admitted to the PhD program in Data Science at CityUHK.</li>
     <li><em>2026.05</em>: Two papers were accepted by ICML 2026.</li>
     <li><em>2025.11</em>: One paper was accepted by AAAI 2026.</li>
