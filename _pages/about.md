@@ -46,14 +46,6 @@ I am very excited about potential collaboration opportunities! If you share simi
 # 📚 Selected Publications 
 (\*corresponding author; $^\dagger$equal contribution)
 
-1. Zijun Jia, Yuanchang Ye, Sen Jia, Yiyao Qian, Haoning Wang, Baojie Chen, Diyin Tang, Jinsong Yu\*, **Zhiyuan Wang**\*. [BalanceRAG: Joint Risk Calibration for Cascaded Retrieval-Augmented Generation](https://arxiv.org/abs/2605.20084). *Preprint*.
-
-1. Anqi Hu$^\dagger$, **Zhiyuan Wang**$^\dagger$\*, Zijun Jia, Bo Fu\*. [MiRD: Reliable Set-Valued Prediction for Open-Ended Question Answering via Miscoverage Risk Decomposition](https://arxiv.org/abs/2605.27091). *Preprint*.
-
-1. Ye Li, Anqi Hu, Yuanchang Ye, Shiyan Tong, **Zhiyuan Wang**\*, Bo Fu\*. [Set-Valued Prediction for Large Language Models with Feasibility-Aware Coverage Guarantees](https://arxiv.org/abs/2603.22966). *Under Review*.
-
-1. Binyu Tan$^\dagger$, **Zhiyuan Wang**$^\dagger$, Jinhao Duan, Kaidi Xu, Heng Tao Shen, Xiaoshuang Shi, Fumin Shen. [Conformal 3D Lesion Segmentation with Balanced Risk Control](https://arxiv.org/abs/2510.17897). *Under Review*.
-
 1. **Zhiyuan Wang**, Aniri, Tianlong Chen, Yue Zhang, Heng Tao Shen, Xiaoshuang Shi, Kaidi Xu. [LEC: Linear Expectation Constraints for Selection-Conditioned Risk Control in Selective Prediction and Routing Systems](https://arxiv.org/abs/2512.01556). <span style="color:red">*International Conference on Machine Learning (ICML)*</span>, Regular, 2026. 
 
 1. **Zhiyuan Wang**, Jinhao Duan, Qingni Wang, Xiaofeng Zhu, Tianlong Chen, Xiaoshuang Shi, Kaidi Xu. [COIN: Uncertainty-Guarding Selective Question Answering for Foundation Models with Provable Risk Guarantees](https://ojs.aaai.org/index.php/AAAI/article/view/40667). <span style="color:red">*Annual AAAI Conference on Artificial Intelligence (AAAI)*</span>, Poster, 2026. 
