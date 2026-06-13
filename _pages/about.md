@@ -32,6 +32,7 @@ I am very excited about potential collaboration opportunities! If you share simi
 
 <div style="max-height:280px; overflow-y:auto; border:1px solid #ccc; padding:10px;">
   <ul>
+    <li><em>2026.06</em>: One papers was accepted by MICCAI 2026.</li>
     <li><em>2026.05</em>: Passed the Outstanding Master’s Thesis selection defense and received unanimous “Excellent” ratings.</li>
     <li><em>2026.05</em>: Admitted to the PhD program in Data Science at CityUHK.</li>
     <li><em>2026.05</em>: Two papers were accepted by ICML 2026.</li>
@@ -45,6 +46,7 @@ I am very excited about potential collaboration opportunities! If you share simi
 
 # 📚 Selected Publications 
 (\*corresponding author; $^\dagger$equal contribution)
+1. Binyu Tan$^\dagger$, **Zhiyuan Wang**$^\dagger$, Jinhao Duan, Kaidi Xu, Heng Tao Shen, Xiaoshuang Shi, Fumin Shen. Conformal 3D Lesion Segmentation with Balanced Risk Control. <span style="color:red">*International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)*</span>, 2026. 
 
 1. **Zhiyuan Wang**, Aniri, Tianlong Chen, Yue Zhang, Heng Tao Shen, Xiaoshuang Shi, Kaidi Xu. [LEC: Linear Expectation Constraints for Selection-Conditioned Risk Control in Selective Prediction and Routing Systems](https://arxiv.org/abs/2512.01556). <span style="color:red">*International Conference on Machine Learning (ICML)*</span>, Regular, 2026. 
 
