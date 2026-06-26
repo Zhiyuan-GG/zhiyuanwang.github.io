@@ -46,6 +46,10 @@ I am very excited about potential collaboration opportunities! If you share simi
 
 # 📚 Selected Publications 
 (\*corresponding author; $^\dagger$equal contribution)
+1. Zijun Jia, Yuanchang Ye, Sen Jia, Yiyao Qian, Haoning Wang, Baojie Chen, Diyin Tang, Jinsong Yu\*, **Zhiyuan Wang**\*. BalanceRAG: Joint Risk Calibration for Cascaded Retrieval-Augmented Generation. <span style="color:blue">*Under Review*</span>, 2026.
+
+1. Anqi Hu, **Zhiyuan Wang**$^\dagger$\*, Zijun Jia, Bo Fu. MiRD: Reliable Set-Valued Prediction for Open-Ended Question Answering via Miscoverage Risk Decomposition. <span style="color:blue">*Under Review*</span>, 2026. 
+
 1. Binyu Tan$^\dagger$, **Zhiyuan Wang**$^\dagger$, Jinhao Duan, Kaidi Xu, Heng Tao Shen, Xiaoshuang Shi, Fumin Shen. Conformal 3D Lesion Segmentation with Balanced Risk Control. <span style="color:red">*International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)*</span>, 2026. 
 
 1. **Zhiyuan Wang**, Aniri, Tianlong Chen, Yue Zhang, Heng Tao Shen, Xiaoshuang Shi, Kaidi Xu. [LEC: Linear Expectation Constraints for Selection-Conditioned Risk Control in Selective Prediction and Routing Systems](https://arxiv.org/abs/2512.01556). <span style="color:red">*International Conference on Machine Learning (ICML)*</span>, Regular, 2026. 
