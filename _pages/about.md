@@ -81,7 +81,7 @@ I am very excited about potential collaboration opportunities! If you share simi
 ICLR, NeurIPS, ACL, EMNLP, EACL, AACL, AAAI, ACM MM, IJCAI, ICASSP
 
 **Journal Reviewer:**
-IEEE Transactions on Image Processing (TIP), Transactions on Machine Learning Research (TMLR), Neural Networks (NN), ACM Computing Surveys (CSUR)
+IEEE Transactions on Image Processing (TIP), Transactions on Machine Learning Research (TMLR), Neural Networks (NN), ACM Computing Surveys (CSUR), Array
 
 
 
