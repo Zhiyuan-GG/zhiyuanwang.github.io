@@ -78,7 +78,7 @@ I am very excited about potential collaboration opportunities! If you share simi
 
 # 💬 Academic Services
 **Program Committee Member of Conferences:**
-ICLR, NeurIPS, ACL, EMNLP, EACL, AACL, AAAI, ACM MM, IJCAI, ICASSP
+ICLR, NeurIPS, ACL, EMNLP, EACL, AACL, AAAI, ACM MM, IJCAI, ICASSP, CIKM
 
 **Journal Reviewer:**
 IEEE Transactions on Image Processing (TIP), Transactions on Machine Learning Research (TMLR), Neural Networks (NN), ACM Computing Surveys (CSUR), Array
