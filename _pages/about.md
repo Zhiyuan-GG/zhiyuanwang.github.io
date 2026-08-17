@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I'm Zhiyuan Wang. I am a final-year Master's student in Computer Science and Technology at the University of Electronic Science and Technology of China (UESTC), advised by Prof. [Xiaoshuang Shi](https://scholar.google.com/citations?user=BWGQt3YAAAAJ&hl=en) in the Trust Intelligent Medical (TIM) Lab. I also work closely with Prof. [Kaidi Xu](https://scholar.google.com/citations?user=lYK0wlsAAAAJ&hl=en) at CityUHK. Previously, I received my bachelor's degree (*Hons*) in Internet of Things Engineering (*Rank 1/154*) from Chongqing University of Posts and Telecommunications (CQUPT) in 2023. 
+Hi, I'm Zhiyuan Wang. I am a first-year PhD student at City University of Hong Kong, and I am very fortunate to be advised by Prof. [Kaidi Xu](https://scholar.google.com/citations?user=lYK0wlsAAAAJ&hl=en). Previously, I received my master's degree in Computer Science and Technology at the University of Electronic Science and Technology of China (UESTC), where I was advised by Prof. [Xiaoshuang Shi](https://scholar.google.com/citations?user=BWGQt3YAAAAJ&hl=en) in the Trust Intelligent Medical (TIM) Lab. 
 
 My research interests include Uncertainty Quantification and Conformal Prediction. 
 
@@ -26,7 +26,7 @@ I am very excited about potential collaboration opportunities! If you share simi
 
 # 🤖 Research
 - Hallucination detection via uncertainty decomposition and quantification; 
-- Task-specific risk control via split conformal prediction, confidence interval computation, and linear expectation constraint. 
+- Task-specific risk control via split conformal prediction, confidence interval calibration, and linear expectation constraint. 
 
 # 🔥 News
 
@@ -48,7 +48,7 @@ I am very excited about potential collaboration opportunities! If you share simi
 (\*corresponding author; $^\dagger$equal contribution)
 1. Zijun Jia, Yuanchang Ye, Sen Jia, Yiyao Qian, Haoning Wang, Baojie Chen, Diyin Tang, Jinsong Yu\*, **Zhiyuan Wang**\*. [BalanceRAG: Joint Risk Calibration for Cascaded Retrieval-Augmented Generation](https://arxiv.org/abs/2605.20084). <span style="color:blue">*Under Review*</span>, 2026.
 
-1. Anqi Hu, **Zhiyuan Wang**$^\dagger$\*, Zijun Jia, Bo Fu. [MiRD: Reliable Set-Valued Prediction for Open-Ended Question Answering via Miscoverage Risk Decomposition](https://arxiv.org/abs/2605.27091). <span style="color:blue">*Under Review*</span>, 2026. 
+1. Anqi Hu, **Zhiyuan Wang**\*, Zijun Jia, Bo Fu. [MiRD: Reliable Set-Valued Prediction for Open-Ended Question Answering via Miscoverage Risk Decomposition](https://arxiv.org/abs/2605.27091). <span style="color:blue">*Under Review*</span>, 2026. 
 
 1. Binyu Tan$^\dagger$, **Zhiyuan Wang**$^\dagger$, Jinhao Duan, Kaidi Xu, Heng Tao Shen, Xiaoshuang Shi, Fumin Shen. Conformal 3D Lesion Segmentation with Balanced Risk Control. <span style="color:red">*International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)*</span>, 2026. 
 
@@ -73,8 +73,9 @@ I am very excited about potential collaboration opportunities! If you share simi
 - CQUPT Merit Student (2020-2022)
 
 # 👨‍🎓 Education
+- *Sep 2026 - Present*, City University of Hong Kong (CityUHK), Doctor of Data Science.
 - *Sep 2023 - Jun 2026*, University of Electronic Science and Technology of China (UESTC), Master of Computer Science and Technology.
-- *Sep 2019 - Jun 2023*, Chongqing University of Posts and Telecommunications (CQUPT), Bachelor of Internet of Things Engineering (*Hons*).
+- *Sep 2019 - Jun 2023*, Chongqing University of Posts and Telecommunications (CQUPT), Bachelor of Internet of Things Engineering (*Hons*, *Rank 1/154*).
 
 # 💬 Academic Services
 **Program Committee Member of Conferences:**
