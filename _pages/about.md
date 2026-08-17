@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I'm Zhiyuan Wang. I am a first-year PhD student at City University of Hong Kong, and I am very fortunate to be advised by Prof. [Kaidi Xu](https://scholar.google.com/citations?user=lYK0wlsAAAAJ&hl=en). Previously, I received my master's degree in Computer Science and Technology at the University of Electronic Science and Technology of China (UESTC), where I was advised by Prof. [Xiaoshuang Shi](https://scholar.google.com/citations?user=BWGQt3YAAAAJ&hl=en) in the Trust Intelligent Medical (TIM) Lab. 
+Hi, I'm Zhiyuan Wang. I am a first-year PhD student in the Department of Data Science at City University of Hong Kong (CityUHK), and I am very fortunate to be advised by Prof. [Kaidi Xu](https://scholar.google.com/citations?user=lYK0wlsAAAAJ&hl=en). Previously, I received my master's degree in Computer Science and Technology at the University of Electronic Science and Technology of China (UESTC), where I was advised by Prof. [Xiaoshuang Shi](https://scholar.google.com/citations?user=BWGQt3YAAAAJ&hl=en) in the Trust Intelligent Medical (TIM) Lab. 
 
 My research interests include Uncertainty Quantification and Conformal Prediction. 
 
