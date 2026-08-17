@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhiyuan Wang"
-description              : "Master's student"
+description              : "Ph.D student"
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhiyuan Wang"
   avatar           : "assets/zyw.png"
-  bio              : "UESTC"
-  location         : "Chengdu, China"
+  bio              : "CityUHK"
+  location         : "Hong Kong SAR"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=q7U_C7wAAAAJ&hl=zh-CN"
