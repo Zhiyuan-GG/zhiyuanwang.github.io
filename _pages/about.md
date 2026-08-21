@@ -49,7 +49,7 @@ I am very excited about potential collaboration opportunities! If you share simi
 (\*corresponding author; $^\dagger$equal contribution)
 1. Zijun Jia, Yuanchang Ye, Sen Jia, Yiyao Qian, Haoning Wang, Baojie Chen, Diyin Tang, Jinsong Yu\*, **Zhiyuan Wang**\*. [BalanceRAG: Joint Risk Calibration for Cascaded Retrieval-Augmented Generation](https://arxiv.org/abs/2605.20084). <span style="color:red">*Conference on Empirical Methods in Natural Language Processing (EMNLP)*</span>, Findings, 2026.
 
-1. Anqi Hu, **Zhiyuan Wang**\*, Zijun Jia, Bo Fu. [MiRD: Reliable Set-Valued Prediction for Open-Ended Question Answering via Miscoverage Risk Decomposition](https://arxiv.org/abs/2605.27091). <span style="color:red">*Conference on Empirical Methods in Natural Language Processing (EMNLP)*</span>, Main, 2026.
+1. Anqi Hu, **Zhiyuan Wang**\*, Zijun Jia, Bo Fu\*. [MiRD: Reliable Set-Valued Prediction for Open-Ended Question Answering via Miscoverage Risk Decomposition](https://arxiv.org/abs/2605.27091). <span style="color:red">*Conference on Empirical Methods in Natural Language Processing (EMNLP)*</span>, Main, 2026.
 
 1. Binyu Tan$^\dagger$, **Zhiyuan Wang**$^\dagger$, Jinhao Duan, Kaidi Xu, Heng Tao Shen, Xiaoshuang Shi, Fumin Shen. Conformal 3D Lesion Segmentation with Balanced Risk Control. <span style="color:red">*International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)*</span>, 2026. 
 
