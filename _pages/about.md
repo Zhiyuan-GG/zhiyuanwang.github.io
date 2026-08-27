@@ -39,6 +39,7 @@ I am very excited about potential collaboration opportunities! If you share simi
     <li><em>2026.05</em>: Two papers were accepted by ICML 2026.</li>
     <li><em>2025.11</em>: One paper was accepted by AAAI 2026.</li>
     <li><em>2025.10</em>: Awarded the National Scholarship for Graduate Students.</li>
+    <li><em>2025.09</em>: Invited to serve as ICLR 2026 AC.</li>
     <li><em>2025.05</em>: One paper was accepted by ACL 2025.</li>
     <li><em>2025.02</em>: One paper was accepted by ICLR 2025.</li>
     <li><em>2025.01</em>: One paper was accepted by Engineering Applications of Artificial Intelligence.</li>
@@ -49,7 +50,7 @@ I am very excited about potential collaboration opportunities! If you share simi
 (\*corresponding author; $^\dagger$equal contribution)
 1. Zijun Jia, Yuanchang Ye, Sen Jia, Yiyao Qian, Haoning Wang, Baojie Chen, Diyin Tang, Jinsong Yu\*, **Zhiyuan Wang**\*. [BalanceRAG: Joint Risk Calibration for Cascaded Retrieval-Augmented Generation](https://arxiv.org/abs/2605.20084). <span style="color:red">*Conference on Empirical Methods in Natural Language Processing (EMNLP)*</span>, Findings, 2026.
 
-1. Anqi Hu, **Zhiyuan Wang**\*, Zijun Jia, Bo Fu\*. [MiRD: Reliable Set-Valued Prediction for Open-Ended Question Answering via Miscoverage Risk Decomposition](https://arxiv.org/abs/2605.27091). <span style="color:red">*Conference on Empirical Methods in Natural Language Processing (EMNLP)*</span>, Main, 2026.
+1. Anqi Hu, Zijun Jia, **Zhiyuan Wang**\*, Bo Fu\*. [MiRD: Reliable Set-Valued Prediction for Open-Ended Question Answering via Miscoverage Risk Decomposition](https://arxiv.org/abs/2605.27091). <span style="color:red">*Conference on Empirical Methods in Natural Language Processing (EMNLP)*</span>, Main, 2026.
 
 1. Binyu Tan$^\dagger$, **Zhiyuan Wang**$^\dagger$, Jinhao Duan, Kaidi Xu, Heng Tao Shen, Xiaoshuang Shi, Fumin Shen. Conformal 3D Lesion Segmentation with Balanced Risk Control. <span style="color:red">*International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)*</span>, 2026. 
 
