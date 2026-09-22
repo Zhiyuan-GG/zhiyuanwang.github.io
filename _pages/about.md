@@ -26,7 +26,8 @@ I am very excited about potential collaboration opportunities! If you share simi
 
 # 🤖 Research
 - Hallucination detection via uncertainty decomposition and quantification; 
-- Task-specific risk control via split conformal prediction, confidence interval calibration, and linear expectation constraint. 
+- Task-specific risk control via split conformal prediction, confidence interval calibration, and linear expectation constraint.
+- Stability and Risk Gap of Threshold-Selection Rules.
 
 # 🔥 News
 
