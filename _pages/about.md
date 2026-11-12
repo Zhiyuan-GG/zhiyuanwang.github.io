@@ -49,6 +49,10 @@ I am very excited about potential collaboration opportunities! If you share simi
 
 # 📚 Selected Publications 
 (\*corresponding author; $^\dagger$equal contribution)
+1. **Zhiyuan Wang**$^\dagger$, Yuanchang Ye$^\dagger$, Jinghao Duan, Xiaoshuang Shi, Weijun Xie, Ye Wei, Kaidi Xu. Stability-Compensated Threshold Calibration for Selection-Conditioned Risk Control in Large Language Models. <span style="color:red">*Arxiv Incoming*</span>, 2026.
+
+1. **Zhiyuan Wang**$^\dagger$, Binyu Tan$^\dagger$, Yu Wang$^\dagger$, Junyi Shen, Li Jiang, Xiaofeng Zhu, Kaidi Xu, Heng Tao Shen, Xiaoshuang Shi. Risk Control Across Routing and Specialist Models in Medical AI. <span style="color:red">*Arxiv Incoming*</span>, 2026.
+
 1. Zijun Jia, Yuanchang Ye, Sen Jia, Yiyao Qian, Haoning Wang, Baojie Chen, Diyin Tang, Jinsong Yu\*, **Zhiyuan Wang**\*. [BalanceRAG: Joint Risk Calibration for Cascaded Retrieval-Augmented Generation](https://arxiv.org/abs/2605.20084). <span style="color:red">*Conference on Empirical Methods in Natural Language Processing (EMNLP)*</span>, Findings, 2026.
 
 1. Anqi Hu, Zijun Jia, **Zhiyuan Wang**\*, Bo Fu\*. [MiRD: Reliable Set-Valued Prediction for Open-Ended Question Answering via Miscoverage Risk Decomposition](https://arxiv.org/abs/2605.27091). <span style="color:red">*Conference on Empirical Methods in Natural Language Processing (EMNLP)*</span>, Main, 2026.
