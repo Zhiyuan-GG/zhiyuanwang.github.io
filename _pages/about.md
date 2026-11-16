@@ -49,7 +49,7 @@ I am very excited about potential collaboration opportunities! If you share simi
 
 # 📚 Selected Publications 
 (\*corresponding author; $^\dagger$equal contribution)
-1. **Zhiyuan Wang**$^\dagger$, Yuanchang Ye$^\dagger$, Jinghao Duan, Xiaoshuang Shi, Weijun Xie, Ye Wei, Kaidi Xu. Stability-Compensated Threshold Calibration for Selection-Conditioned Risk Control in Large Language Models. <span style="color:red">*Arxiv Incoming*</span>, 2026.
+1. **Zhiyuan Wang**$^\dagger$, Yuanchang Ye$^\dagger$, Jiahao Yuan, Jinghao Duan, Xiaoshuang Shi, Weijun Xie, Ye Wei, Kaidi Xu. Stability-Compensated Threshold Calibration for Selection-Conditioned Risk Control in Large Language Models. <span style="color:red">*Arxiv Incoming*</span>, 2026.
 
 1. **Zhiyuan Wang**$^\dagger$, Binyu Tan$^\dagger$, Yu Wang$^\dagger$, Junyi Shen, Li Jiang, Xiaofeng Zhu, Kaidi Xu, Heng Tao Shen, Xiaoshuang Shi. Risk Control Across Routing and Specialist Models in Medical AI. <span style="color:red">*Arxiv Incoming*</span>, 2026.
 
@@ -86,9 +86,9 @@ I am very excited about potential collaboration opportunities! If you share simi
 
 # 💬 Academic Services
 **Program Committee Member of Conferences:**
-ICLR, NeurIPS, ACL, EMNLP, EACL, AACL, AAAI, ACM MM, WWW, IJCAI, ICASSP, CIKM
+ICLR, NeurIPS, ACL, EMNLP, NAACL, EACL, AACL, AAAI, ACM MM, WWW, IJCAI, ICASSP, CIKM
 
 **Journal Reviewer:**
-IEEE Transactions on Image Processing (TIP), Transactions on Machine Learning Research (TMLR), Neural Networks (NN), ACM Computing Surveys (CSUR), Array, Information Processing and Management (IPM), Chemometrics and Intelligent Laboratory Systems (CILS), Neuroscience Bulletin (NB)
+IEEE Transactions on Image Processing (TIP), Transactions on Machine Learning Research (TMLR), Neural Networks (NN), ACM Computing Surveys (CSUR), Array, Information Processing and Management (IPM), Chemometrics and Intelligent Laboratory Systems (CILS), Neuroscience Bulletin (NB), Measurement (MEAS)
 
 
