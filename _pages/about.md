@@ -49,7 +49,7 @@ I am very excited about potential collaboration opportunities! If you share simi
 
 # 📚 Selected Publications 
 (\*corresponding author; $^\dagger$equal contribution)
-1. **Zhiyuan Wang**$^\dagger$, Yuanchang Ye$^\dagger$, Jiahao Yuan, Jinghao Duan, Xiaoshuang Shi, Weijun Xie, Ye Wei, Kaidi Xu. Stability-Compensated Threshold Calibration for Selection-Conditioned Risk Control in Large Language Models. <span style="color:red">*Arxiv Incoming*</span>, 2026.
+1. **Zhiyuan Wang**$^\dagger$, Yuanchang Ye$^\dagger$, Jiahao Yuan, Jinghao Duan, Xiaoshuang Shi, Weijun Xie, Ye Wei, Kaidi Xu. [Stability-Compensated Threshold Calibration for Selection-Conditioned Risk Control in Large Language Models](https://arxiv.org/abs/2611.21384). <span style="color:red">*Arxiv Incoming*</span>, 2026.
 
 1. **Zhiyuan Wang**$^\dagger$, Binyu Tan$^\dagger$, Yu Wang$^\dagger$, Junyi Shen, Li Jiang, Xiaofeng Zhu, Kaidi Xu, Heng Tao Shen, Xiaoshuang Shi. Risk Control Across Routing and Specialist Models in Medical AI. <span style="color:red">*Arxiv Incoming*</span>, 2026.
 
